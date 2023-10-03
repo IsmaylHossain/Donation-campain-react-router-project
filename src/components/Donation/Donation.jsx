@@ -1,16 +1,3 @@
-
-
-// const Donation = () => {
-//     return (
-//         <div>
-            
-//         </div>
-//     );
-// };
-
-// export default Donation;
- 
-
 import { useEffect, useState } from "react";
 import DonationContainer from "./DonationContainer";
 

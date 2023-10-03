@@ -1,4 +1,3 @@
-
 import PropTypes from 'prop-types';
 import swal from 'sweetalert';
 
@@ -64,3 +63,6 @@ CardDetail.propTypes =  {
 
 
 export default CardDetail;
+
+
+

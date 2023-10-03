@@ -1,135 +1,135 @@
- 
 [
-      {
-        "id": "1",
-        "image": "https://i.ibb.co/xjhVLNt/Health.png",
-        "components": "Health",
-        "color": "#0052ff26",
-        "te_color":"#0052FF",
-        "comp_color":"#0052ff33",
-        "title": "Clean water for children",
-        "price": 99.00,
-        "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
-      },
-      {
-        "id": "2",
-        "image": "https://i.ibb.co/jJy32ph/Education.png",
-        "components": "Education",
-        "title": "Good education",
-        "color": "#ff444a26",
-        "te_color":"#FF444A",
-        "comp_color":"#ff444a33",
-        "price": 39.99,
-        "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
-      },
-      {
-        "id": "3",
-        "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
-        "components": "Cloathing",
-        "title": "Used Clothing Drive",
-        "color": "#79c23f33",
-        "te_color":"#79C23F",
-        "comp_color":"#79c23f33",
-        "price": 149.00,
-        "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
-      },
-      {
-        "id": "4",
-        "image": "https://i.ibb.co/wB9LGt2/Food.png",
-        "components": "Food",
-        "title": "Better food for everyone",
-        "color": "#f8714726",
-        "te_color":"#F87147",
-        "comp_color":"#f8714733",
-        "price": 290.00,
-        "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
-      },
-      {
-        "id": "5",
-        "image": "https://i.ibb.co/xjhVLNt/Health.png",
-        "components": "Health",
-        "color": "#0052ff26",
-        "te_color":"#0052FF",
-        "comp_color":"#0052ff33",
-        "title": "Clean water for children",
-        "price": 99.00,
-        "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
-      },
-      {
-        "id": "6",
-        "image": "https://i.ibb.co/jJy32ph/Education.png",
-        "components": "Education",
-        "title": "Good education",
-        "color": "#ff444a26",
-        "te_color":"#FF444A",
-        "comp_color":"#ff444a33",
-        "price": 39.99,
-        "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
-      },
-      {
-        "id": "7",
-        "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
-        "components": "Cloathing",
-        "title": "Used Clothing Drive",
-        "color": "#79c23f33",
-        "te_color":"#79C23F",
-        "comp_color":"#79c23f33",
-        "price": 149.00,
-        "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
-      },
-      {
-        "id": "8",
-        "image": "https://i.ibb.co/wB9LGt2/Food.png",
-        "components": "Food",
-        "title": "Better food for everyone",
-        "color": "#f8714726",
-        "te_color":"#F87147",
-        "comp_color":"#f8714733",
-        "price": 290.00,
-        "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
-      },
-      {
-        "id": "9",
-        "image": "https://i.ibb.co/xjhVLNt/Health.png",
-        "components": "Health",
-        "color": "#0052ff26",
-        "te_color":"#0052FF",
-        "comp_color":"#0052ff33",
-        "title": "Clean water for children",
-        "price": 99.00,
-        "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
-      },
-      {
-        "id": "10",
-        "image": "https://i.ibb.co/jJy32ph/Education.png",
-        "components": "Education",
-        "title": "Good education",
-        "color": "#ff444a26",
-        "te_color":"#FF444A",
-        "comp_color":"#ff444a33",
-        "price": 39.99,
-        "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
-      },
-      {
-        "id": "11",
-        "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
-        "components": "Cloathing",
-        "title": "Used Clothing Drive",
-        "color": "#79c23f33",
-        "te_color":"#79C23F",
-        "comp_color":"#79c23f33",
-        "price": 149.00,
-        "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
-      },
-      {
-        "id": "12",
-        "image": "https://i.ibb.co/wB9LGt2/Food.png",
-        "components": "Food",
-        "title": "Better food for everyone",
-        "color": "#f8714726",
-        "te_color":"#F87147",
-        "comp_color":"#f8714733",
-        "price": 290.00,
-        "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
-      }
-    ]
+  {
+    "id": "1",
+    "image": "https://i.ibb.co/xjhVLNt/Health.png",
+    "components": "Health",
+    "color": "#0052ff26",
+    "te_color":"#0052FF",
+    "comp_color":"#0052ff33",
+    "title": "Clean water for children",
+    "price": 99.00,
+    "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co/jJy32ph/Education.png",
+    "components": "Education",
+    "title": "Good education",
+    "color": "#ff444a26",
+    "te_color":"#FF444A",
+    "comp_color":"#ff444a33",
+    "price": 39.99,
+    "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
+    "components": "Cloathing",
+    "title": "Used Clothing Drive",
+    "color": "#79c23f33",
+    "te_color":"#79C23F",
+    "comp_color":"#79c23f33",
+    "price": 149.00,
+    "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
+  },
+  {
+    "id": "4",
+    "image": "https://i.ibb.co/wB9LGt2/Food.png",
+    "components": "Food",
+    "title": "Better food for everyone",
+    "color": "#f8714726",
+    "te_color":"#F87147",
+    "comp_color":"#f8714733",
+    "price": 290.00,
+    "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
+  },
+  {
+    "id": "5",
+    "image": "https://i.ibb.co/xjhVLNt/Health.png",
+    "components": "Health",
+    "color": "#0052ff26",
+    "te_color":"#0052FF",
+    "comp_color":"#0052ff33",
+    "title": "Clean water for children",
+    "price": 99.00,
+    "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
+  },
+  {
+    "id": "6",
+    "image": "https://i.ibb.co/jJy32ph/Education.png",
+    "components": "Education",
+    "title": "Good education",
+    "color": "#ff444a26",
+    "te_color":"#FF444A",
+    "comp_color":"#ff444a33",
+    "price": 39.99,
+    "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
+  },
+  {
+    "id": "7",
+    "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
+    "components": "Cloathing",
+    "title": "Used Clothing Drive",
+    "color": "#79c23f33",
+    "te_color":"#79C23F",
+    "comp_color":"#79c23f33",
+    "price": 149.00,
+    "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
+  },
+  {
+    "id": "8",
+    "image": "https://i.ibb.co/wB9LGt2/Food.png",
+    "components": "Food",
+    "title": "Better food for everyone",
+    "color": "#f8714726",
+    "te_color":"#F87147",
+    "comp_color":"#f8714733",
+    "price": 290.00,
+    "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
+  },
+  {
+    "id": "9",
+    "image": "https://i.ibb.co/xjhVLNt/Health.png",
+    "components": "Health",
+    "color": "#0052ff26",
+    "te_color":"#0052FF",
+    "comp_color":"#0052ff33",
+    "title": "Clean water for children",
+    "price": 99.00,
+    "description": "Help provide clean water to children in need. Your contribution will make a significant impact on their lives."
+  },
+  {
+    "id": "10",
+    "image": "https://i.ibb.co/jJy32ph/Education.png",
+    "components": "Education",
+    "title": "Good education",
+    "color": "#ff444a26",
+    "te_color":"#FF444A",
+    "comp_color":"#ff444a33",
+    "price": 39.99,
+    "description": "Support quality education for underprivileged children. Your donation will enable them to access a brighter future."
+  },
+  {
+    "id": "11",
+    "image": "https://i.ibb.co/1zdy5Xb/Clothing.png",
+    "components": "Cloathing",
+    "title": "Used Clothing Drive",
+    "color": "#79c23f33",
+    "te_color":"#79C23F",
+    "comp_color":"#79c23f33",
+    "price": 149.00,
+    "description": "Contribute to our used clothing drive and help provide warm clothing to those in need during the cold months."
+  },
+  {
+    "id": "12",
+    "image": "https://i.ibb.co/wB9LGt2/Food.png",
+    "components": "Food",
+    "title": "Better food for everyone",
+    "color": "#f8714726",
+    "te_color":"#F87147",
+    "comp_color":"#f8714733",
+    "price": 290.00,
+    "description": "Fusce convallis, nunc nec viverra varius, eros libero imperdiet est, eget vehicula elit metus in libero."
+  }
+]
+
