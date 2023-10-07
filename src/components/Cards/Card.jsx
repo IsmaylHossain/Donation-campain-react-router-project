@@ -1,24 +1,5 @@
  
 
-// const Card = ({card}) => {
-
-//   const {picture, card_bg,text_bg,category_bg, category, title}= card || {}
-
-//   return (
-//       <div>
-//          <div className="mx-auto card w-72 bg-base-100 shadow-xl">
-// <figure><img className="w-72" src={picture} alt="Shoes" /></figure>
-// <div className="card-body rounded-b-2xl" style={{ backgroundColor: card_bg }}>
-// <p className=" w-20  rounded-md" style={{ backgroundColor: category_bg, color: text_bg}}>{category}</p>
-//   <h2 className="card-title w-60" style={{ color: text_bg}} >{title}</h2>
-// </div>
-// </div>
-//       </div>
-//   );
-// };
-
-// export default Card;
-
 import { Link } from "react-router-dom";
 import PropTypes from 'prop-types';
 
