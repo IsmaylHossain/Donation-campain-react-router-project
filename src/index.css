@@ -70,3 +70,11 @@ button:focus-visible {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.background-img{
+   background-image: linear-gradient(rgba(198, 205, 211, 0.9),rgba(233, 226, 226, 0.9) ),url(../Resources/Rectangle\ 4288.png);
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  
+}
